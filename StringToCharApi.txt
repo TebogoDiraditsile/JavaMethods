@@ -96,3 +96,7 @@ void    Create(int (x==0))                   | create a string from user input.
 </body>
 </html>
 
+<<<<<<< HEAD:StringToCharApi.html
+=======
+If you have any  questions , you can send an email at : sgukha8@gmail.com 
+>>>>>>> 6624dde42da49b466c09b63eb98a25cdf813ddd2:StringToCharApi.txt
